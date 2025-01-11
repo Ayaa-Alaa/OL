@@ -8,10 +8,7 @@ const { v4: uuidv4 } = require('uuid');
 function displayHeader() {
   const width = process.stdout.columns;
   const headerLines = [
-    "<|============================================|>",
-    " OpenLedger Bot ",
-    " github.com/recitativonika ",
-    "<|============================================|>"
+    "<|== yarbukaScript ==|>"
   ];
   headerLines.forEach(line => {
     console.log(`\x1b[36m${line.padStart((width + line.length) / 2)}\x1b[0m`);
