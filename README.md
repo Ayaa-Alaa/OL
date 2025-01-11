@@ -1,1 +1,1 @@
-yang bisaa ajaa yaaaaa :)
+ayaa gak pandee 🤧
